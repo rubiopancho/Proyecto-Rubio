@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html.lang="es">
+
+<head>
+    <title>proyecto</title><!--nombre del sitio en el navegador-->
+
+   
+    <link rel="shortcut icon" href="/proyecto/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/proyecto/favicon.ico" type="image/x-icon"><!--favicon-->
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chau+Philomene+One&family=Hurricane&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chau+Philomene+One&family=Kumbh+Sans:wght@300&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka&display=swap" rel="stylesheet">
+</head>
+<body class="grid-area"><!--contenido visible del navegador-->
+    <header id="inicio" class="header-flex"><!--encabezado -->
+       <h1 class="titulo">CREA TU PROPIO JUEGO</h1>
+       <img id="logo" src="/img/CREA TUTTI (27).png"  alt="logo"><!--logo-->
+      
+    </header>
+<nav class="menu-flex"><!--menude navegacion-->
+    
+            <span><a href="/index.html">Menu</a></span>
+            <span><a href="views/productos.html">Productos</a></span>
+            <span><a href="views/preguntas_frecuentes.html">Preguntas frecuentes</a></span>
+            <span><a href="views/contacto.html">Contacto</a></span>
+</nav>
+<main>
+    <section><!--articulos-->
+        <article>
+            <h2 class="titulos-del-texto">Descripcion del CREATUTTI</h2><!--texto DESCRIPCION DEL CREATUTTI-->
+            <!--imagen del creatutti(40)-->
+            <!--imagen descriptiva(61)-->
+            <p class="textos">Descripcion del creatutti--. El juego esta compuesto por 20 piezas, 8 cuadrado basicos, 4 cuadrados especiale y 8 triangulos. Es un juego desestructurado que puede convertirse en cualquier cosa que el chico desee. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae voluptates minima perspiciatis, sapiente soluta sed excepturi velit placeat tempora explicabo odio autem facere magnam perferendis impedit in saepe consectetur facilis?</p><!--descripcion del creatutti-->
+        </article>
+        <article>
+        <h2 class="titulos-del-texto">¿Quienes somos?</h2><!--titulo quienes somos-->
+        <!--imagen quienes somos(somos nosotros)-->
+        <p class="textos">¿Quienes somos? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem repellendus distinctio, sapiente maxime vero harum magni consequatur, totam cum quod doloribus praesentium repellat tenetur. Dignissimos hic officiis est reprehenderit magnam? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rem mollitia tempora maiores autem ut. Deserunt maiores quam, aliquid cum eveniet accusantium vero sunt. Esse temporibus libero harum rerum itaque similique.</p><!--texto "quienes somos"-->
+        </article>
+        <article>
+        <h2 class="titulos-del-texto">¿Como armar?</h2>
+        <p class="textos">¿Como armar?. Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum possimus velit necessitatibus temporibus, eligendi cumque nemo dolorum cupiditate, optio laudantium, nisi voluptas nobis corporis obcaecati quisquam dicta quae fuga dignissimos. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia, enim beatae obcaecati odio vel est, assumenda facere adipisci sapiente repellendus deleniti nemo sed nostrum voluptas dolorum, maiores molestiae consequuntur illum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, veniam aut minus fugiat ipsa ad quas cupiditate porro molestiae facilis voluptatum amet reiciendis, voluptas, dolorem nobis fuga similique doloremque natus.</p><!--texto de como armar-->
+        </article>
+    </section>
+</main>
+<aside><!--columna lateral-->
+    <h2 class="titulos-del-texto">Dicen de nosotros</h2><!--texto dicen de nosotro-->
+     <p class="textos">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed odit suscipit dolores laboriosam id provident quidem dicta reiciendis animi, minima, reprehenderit necessitatibus dignissimos quas, repellat natus omnis culpa asperiores dolor? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum ipsum perspiciatis praesentium. Quos asperiores nam, nihil voluptatibus, hic velit sapiente, facilis consequatur sunt maiores odit vitae facere? Eos, magnam dolores? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum corporis quas rem asperiores. Cumque aut magnam sapiente voluptatum maiores temporibus odio, repellat aliquam iste accusantium maxime quam accusamus vero facilis!</p>
+</aside>
+
+<footer class="footer-flex"><!--pie de pagina-->
+     <p class="textos" >Redes sociales. Conoce más sobre nosotros y lo que hacemos en nuestras redes sociales.</p> <!--aca estan las redes sociales-->
+     <ul class="redes">
+        <li><a href="https://www.instagram.com/creatutti.ar/">INSTAGRAM</a><!--instagram--></li>
+        <li><a href="#inicio">Inicio</a></li>
+    </ul>
+</footer>        
+     
+        
+
+
+</body> 
+</html>
